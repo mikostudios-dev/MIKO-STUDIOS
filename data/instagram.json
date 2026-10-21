@@ -1,5 +1,9 @@
 [
   {
+    "permalink": "https://www.instagram.com/p/Dewqa81kcf1/",
+    "media_url": "./data/ig_images/Dewqa81kcf1.jpg"
+  },
+  {
     "permalink": "https://www.instagram.com/p/Dee0KHSFhSS/",
     "media_url": "./data/ig_images/Dee0KHSFhSS.jpg"
   },
@@ -30,9 +34,5 @@
   {
     "permalink": "https://www.instagram.com/p/DaAvU4BjkcO/",
     "media_url": "./data/ig_images/DaAvU4BjkcO.jpg"
-  },
-  {
-    "permalink": "https://www.instagram.com/reel/DZ93TssuIwv/",
-    "media_url": "./data/ig_images/DZ93TssuIwv.jpg"
   }
 ]
